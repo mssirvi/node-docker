@@ -1,0 +1,15 @@
+{
+  "name": "node-docker",
+  "version": "1.0.0",
+  "description": "A sample node app deployed in aws ecr using docker",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Manish Sirvi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
